@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 class FormContainer extends StatelessWidget {
-  final child;
+  final Widget child;
   FormContainer(this.child);
   @override
   Widget build(BuildContext context) {
