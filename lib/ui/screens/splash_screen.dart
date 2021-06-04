@@ -19,9 +19,9 @@ class SplashScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
                ////Logo Icon
-              Image(image: AssetImage('assets\images\splash_image.png'),
-              height: 88,
-                width: 88,
+              Image(image: AssetImage('images\splash_image.png'),
+              height: 10,
+                width: 10,
               fit: BoxFit.contain,),
               ////Column of text widgets
 
